@@ -167,7 +167,7 @@ body {
 	margin: 0 20px;
 }
 
-/* ========================== */
+/* =====up__block======= */
 
 .up__block {
 	height: 600px;
@@ -207,7 +207,7 @@ body {
 	margin-top: 43px;
 	box-shadow: none;
 }
-/* ========================== */
+/* ======peculiarities========= */
 
 .peculiarities__flex {
 	height: 290px;
@@ -232,7 +232,7 @@ body {
   letter-spacing: 0.03em;
   color: #757575;
 }
-/* ========================== */
+/* ========classes=========== */
 
 .classes__title {
 	text-align: center;
@@ -250,7 +250,7 @@ body {
 .classes-img {
 	margin-bottom: 90px;
 }
-/* ========================== */
+/* =========team========== */
 .team {
 	background: #F5F4FA;
 	height: 648px;
@@ -305,4 +305,51 @@ border-radius: 0px 0px 4px 4px;
 .team-card3 {
 }
 .team-card4 {
+}
+/* ========footer========= */
+.footer {
+	height: 252px;
+	background: #2F303A;
+}
+.container {
+}
+.footer__logo {
+	color: #fff;
+	font-family: Raleway;
+	font-weight: bolder;
+	font-size: 26px;
+	line-height: 31px;
+	letter-spacing: 0.03em;
+	padding-top: 60px;
+	padding-bottom: 10px;
+}
+.footer__logo-web {
+	color: #2196F3;
+}
+.footer__address p{
+  padding-top: 10px;
+}
+.footer__address-street {
+	font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 24px;
+  letter-spacing: 0.03em;
+  color: #FFFFFF;
+}
+.footer__address-email {
+	font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 24px;
+  letter-spacing: 0.03em;
+  color: rgba(255, 255, 255, 0.6);
+}
+.footer__address-tell {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 24px;
+  letter-spacing: 0.03em;
+  color: rgba(255, 255, 255, 0.6);
 }
